@@ -15,3 +15,9 @@ Several tests have been implemented already, some of which are currently failing
 These failing tests set out the requirements for the additional code to be implemented during the workshop.
 
 The tests should be run using `pytest`, which will be introduced during the workshop.
+
+# Participants | ALIFE 2023 Tutorial on Writing research software well and collaboratively in Python
+
+Please add your name or nickname under this section during the PR exercise:
+
+- 
