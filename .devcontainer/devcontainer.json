@@ -2,15 +2,15 @@
   "image": "mcr.microsoft.com/devcontainers/universal:2",
   "features": {
   },
-    "customizations": {
-    "codespaces": {
-      "openFiles": []
-    },
-    "vscode": {
-      "extensions": [
-        "ms-toolsai.jupyter",
-        "ms-python.python"
-      ]
-    }
+  "customizations": {
+  "codespaces": {
+    "openFiles": []
+  },
+  "vscode": {
+    "extensions": [
+      "ms-toolsai.jupyter",
+      "ms-python.python"
+    ]
+  }
   }
 }
