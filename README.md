@@ -20,4 +20,4 @@ The tests should be run using `pytest`, which will be introduced during the work
 
 Please add your name or nickname under this section during the PR exercise:
 
-- 
+- Nadine Spychala
